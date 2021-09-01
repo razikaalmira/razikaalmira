@@ -5,7 +5,7 @@
 - 🌱 Currently learning everything, mostly about data-related topics
 - 📚 My interest lies in data science, data viz, machine learning, and marketing intelligence
 - 💻 Looking to collaborate on data science project(s)
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/razikaalmira/)
+- 📫 You can reach me through [e-mail](mailto:razikaalmira@gmail.com)
 
 ---
 
