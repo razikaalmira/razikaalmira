@@ -1,4 +1,4 @@
-### Hi, I am Razika 👋
+#### Hi, I am Razika 👋
 
 ### I am a final year student from Institut Teknologi Bandung
 - 💼 Currently looking for an apprenticeship / full-time opportunities
@@ -8,7 +8,6 @@
 - 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/razikaalmira/)
 
 ---
-<br />
 
 <img align="center" alt="Razika's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=razikaalmira&count_private=true&show_icons=true&theme=radical" />
 
