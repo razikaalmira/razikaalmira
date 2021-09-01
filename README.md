@@ -1,11 +1,11 @@
-#### Hi, I am Razika 👋
+### Hi, I am Razika 👋
 
 ### I am a final year student from Institut Teknologi Bandung
 - 💼 Currently looking for an apprenticeship / full-time opportunities
 - 🌱 Currently learning everything, mostly about data-related topics
 - 📚 My interest lies in data science, data viz, machine learning, and marketing intelligence
 - 💻 Looking to collaborate on data science project(s)
-- 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/razikaalmira/)
+- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/razikaalmira/)
 
 ---
 
