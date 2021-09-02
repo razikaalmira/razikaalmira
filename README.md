@@ -1,4 +1,4 @@
-### Hi, I am Razika !["waving hand animated"](https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif)
+### Hi, I am Razika !["waving hand animated"](https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif)
 
 ### I am a final year student from Institut Teknologi Bandung 
 - 💼 Currently looking for an apprenticeship / full-time opportunities
