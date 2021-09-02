@@ -1,4 +1,5 @@
-### Hi, I am Razika <img src=”https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif” alt="Waving hand animated gif" height="40"width="40" />
+### Hi, I am Razika 
+<img src=”https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif” alt="Waving hand animated gif" height="40"width="40" />
 ### I am a final year student from Institut Teknologi Bandung 
 - 💼 Currently looking for an apprenticeship / full-time opportunities
 - 🌱 Currently learning everything, mostly about data-related topics
