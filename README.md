@@ -3,7 +3,7 @@
 ### I am a final year student from Institut Teknologi Bandung 
 - 💼 Currently looking for an apprenticeship / full-time opportunities
 - 🌱 Currently learning everything, mostly about data-related topics
-- 📚 My interest lies in data science, data viz, machine learning, and marketing intelligence
+- 📚 My interest lies in data science, data viz, machine learning, and market intelligence
 - 💻 Looking to collaborate on data science project(s)
 - 📫 You can reach me through [e-mail](mailto:razikaalmira@gmail.com)
 
