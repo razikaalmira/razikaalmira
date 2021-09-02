@@ -1,6 +1,6 @@
-### Hi, I am Razika 👋
+### Hi, I am Razika <img src=”https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif”>
 
-### I am a final year student from Institut Teknologi Bandung
+### I am a final year student from Institut Teknologi Bandung 
 - 💼 Currently looking for an apprenticeship / full-time opportunities
 - 🌱 Currently learning everything, mostly about data-related topics
 - 📚 My interest lies in data science, data viz, machine learning, and marketing intelligence
