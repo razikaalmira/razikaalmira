@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I am Razika <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif"height="45" width="45" /> </h1>
 
-### I am a final year student from Institut Teknologi Bandung 
+### I am a fresh graduate from Institut Teknologi Bandung 
 - 💼 Currently looking for an apprenticeship / full-time opportunities
 - 🌱 Currently learning everything, mostly about data-related topics
 - 📚 My interest lies in data science, data viz, machine learning, and market intelligence
