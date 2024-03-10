@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I am Razika <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  alt="Waving hand animated gif"height="45" width="45" /> </h1>
 
 ### I am a data enthusiast
-- 💼 Currently a Business Intelligence for an e-commerce company based in Jakarta
+- 💼 Currently open for job opportunities related to data
 - 🌱 Love learning new things! From data related topics to martial arts to languages
 - 📚 My interest lies in data science, data viz, machine learning, and market intelligence
 - 💻 Looking forward to collaborate on data science project(s)
