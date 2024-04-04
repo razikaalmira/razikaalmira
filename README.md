@@ -3,7 +3,7 @@
 ### I am a data enthusiast
 - 💼 Currently open for job opportunities related to data
 - 🌱 Love learning new things! From data related topics to martial arts to languages
-- 📚 My interest lies in data science, data viz, machine learning, and market intelligence
+- 📚 My interest lies in data engineering, business intelligence, data analytics, data viz, machine learning, and market intelligence
 - 💻 Looking forward to collaborate on data-related project(s)
 - 📫 You can reach me through [e-mail](mailto:razikaalmira@gmail.com)
 
